@@ -1,6 +1,6 @@
 # Collatz Tail One-Click Repro
 
-Pure Python, no Mathematica.
+Pure Python
 
 This wraps the supplied supplementary bundle into a single-command entry point.
 
